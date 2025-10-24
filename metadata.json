@@ -1,0 +1,5 @@
+{
+  "name": "ScholarSight",
+  "description": "ScholarSight: An AI-powered tool to simplify and break down complex computer science research papers. Upload a PDF to receive a simple explanation, methodology breakdown, dataset information, and more, helping you understand and reference academic work with ease.",
+  "requestFramePermissions": []
+}
